@@ -6,7 +6,7 @@
 | --- | --- |
 | Студент і підгрупа | Словіковський Павло КН-42 |
 | Тема і варіант вхідних умов | Сервіс бронювання аудиторій і обладнання з погодженням заявок (Тема 5 / V02) |
-| Трекер | https://github.com/users/slovikovskyi/projects/1 |
+| Трекер | [https://github.com/users/slovikovskyi/projects/1](https://github.com/users/pavloSlovikovskyi/projects/1/views/1) |
 
 ## Спринт 1
 
