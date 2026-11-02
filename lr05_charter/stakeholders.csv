@@ -4,3 +4,7 @@ ST-02,Диспетчер навчальної частини,навчальна 
 ST-03,Комендант корпусу,господарська частина,low,high,blocker,keep_satisfied,PM
 ST-04,Голова студентських організацій,студентство,high,low,neutral,keep_informed,PM
 ST-05,Відповідальний за видачу обладнання,господарська частина,low,low,supporter,monitor,PM
+ST-06,BA (бізнес-аналітик),команда проєкту,high,low,supporter,keep_informed,PM
+ST-07,QA (інженер з якості),команда проєкту,high,low,supporter,keep_informed,PM
+ST-08,Dev (розробник),команда проєкту,high,high,supporter,manage_closely,PM
+ST-09,PM (я),команда проєкту,high,high,supporter,manage_closely,Dev

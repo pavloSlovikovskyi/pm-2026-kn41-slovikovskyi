@@ -1,1 +1,10 @@
 item_id,stakeholder_id,message,channel,frequency,format,owner
+C-01,ST-09,Стан історій ризики та відхилення від стелі 900 годин,report,weekly,written,Dev
+C-02,ST-01,Результати критеріїв успіху та готовність до приймання,demo,weekly,presentation,PM
+C-03,ST-02,Уточнення довідників розкладу та погодження заявок,meeting,biweekly,verbal,BA
+C-04,ST-03,Зміни релізу що можуть вплинути на корпус,report,monthly,written,PM
+C-05,ST-08,Залежності інтеграції та блокери реалізації,meeting,weekly,verbal,PM
+C-06,ST-06,Оновлення вимог і рішення щодо CH-01,chat,weekly,written,PM
+C-07,ST-07,Покриття тестами дефекти та готовність REL-1,report,biweekly,dashboard,PM
+C-08,ST-04,Вплив релізу на студентські організації,email,monthly,written,PM
+C-09,ST-09,Негайна ескалація зірваної віхи тригера ризику score 15 або виходу за 900 годин,call,on_event,verbal,Dev
