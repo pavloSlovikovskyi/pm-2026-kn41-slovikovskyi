@@ -1,1 +1,4 @@
 metric_id,metric,value,source_file,reader,threshold,decision
+MT-01,Cycle time P85,5 днів,lr14_metrics/flow.csv,ST-09,7 днів,Якщо P85 перевищить 7 днів зменшити WIP-ліміт до 1 і розбити найбільші історії
+MT-02,Найвищий ризик,20 балів,lr11_risks_quality/risks.csv,ST-01,15 балів,Якщо score перевищить 15 ескалувати R-06 спонсору і заблокувати оголошення релізу готовим
+MT-03,Дата P85 прогнозу релізу,2026-11-20,lr09_forecast/forecast.csv,ST-01,2026-11-20,Якщо дата стане пізнішою за 2026-11-20 скоротити scope REL-1 і подати change request
