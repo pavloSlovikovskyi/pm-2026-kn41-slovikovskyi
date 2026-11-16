@@ -1,1 +1,5 @@
 role,fte,hours,rate,source,note
+PM,0.50,200,500,https://dou.ua/lenta/articles/salary-report-devs-summer-2025/,"Ставка PM нижча за Dev і враховує управлінську частку V02"
+Dev,1.00,400,550,https://dou.ua/lenta/articles/salary-report-devs-summer-2025/,"Найвища ставка через повну зайнятість і технічну відповідальність"
+QA,0.50,200,450,https://dou.ua/lenta/articles/salary-report-devs-summer-2025/,"Ставка QA нижча за Dev через часткову зайнятість"
+BA,0.25,100,400,https://dou.ua/lenta/articles/salary-report-data-summer-2025/,"Найменша ставка відповідає частковій зайнятості BA"
