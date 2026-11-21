@@ -1,1 +1,5 @@
 run_id,date,tool,goal,artifact,has_input,iterations,result,note
+P-01,2026-09-18,Copilot SDK в VS Code,Розібрати нотатки на задачі рішення та відкриті питання із тегами та відповідальними,lr12_communication/communication.csv,yes,1,used_with_edits,Отримано чернетку але допущено вигадування відповідальних і неточні ролі.
+P-02,2026-10-02,Copilot SDK в VS Code,Уточнити P-01 із забороною вигадувати ролі і вимогою окремо фіксувати суперечності,lr14_metrics/flow.csv,yes,2,used_with_edits,Виправлено порожні власники але залишено помилки ролі N-02 і змісту N-14.
+P-03,2026-10-21,Copilot SDK в VS Code,Провести premortem аналіз десяти причин провалу проєкту через рік,lr11_risks_quality/risks.csv,yes,1,used_with_edits,Відповідь правлено для розділення злитих тегів і видалення вигаданих тверджень.
+P-04,2026-11-21,Copilot SDK в VS Code,Повторно перевірити повноту CSV та відповідність артефактів правилам валідатора,lr17_ai_assistant/README.md,yes,2,used_with_edits,Після перевірки відкориговано структуру записів і підсумкову документацію.
